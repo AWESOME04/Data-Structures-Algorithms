@@ -1,5 +1,5 @@
-# Cpp-Coursework-LAB_Assignment_2
-This repository contains lab assignment 2 for my college coursework in C++.
+# Cpp-Coursework-LAB_Assignment_3
+This repository contains lab assignment 3 for my college coursework in C++.
 
 ![Untitled](https://user-images.githubusercontent.com/102630199/226629056-f37207b4-1b47-48d3-8413-a17254a91ccb.png)
   
@@ -9,7 +9,7 @@ This repository contains lab assignment 2 for my college coursework in C++.
             SCHOOL OF ENGINEERING SCIENCES
         FIRST SEMESTER 2022/2023 ACADEMIC YEAR
 C++ PROGRAMMINIG
-LAB 2
+LAB 3
 
 1.Write a C++ program to implement the Number Guessing Game. In this game the
 computer chooses a random number between 1 and 100, and the player tries to
