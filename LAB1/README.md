@@ -1,5 +1,6 @@
-```
 # Big O Complexity Analysis
+
+![1 KfZYFUT2OKfjekJlCeYvuQ](https://github.com/AWESOME04/Data-Structures-and-Algorithms/assets/102630199/8fd1227d-075b-406d-a714-6dbe0bc6afb3)
 
 ## Description
 This project aims to calculate the Big O complexity of each line of code in a given algorithm or program, as well as the overall Big O complexity. The purpose is to analyze the efficiency and performance characteristics of the code in terms of time complexity.
